@@ -10,7 +10,7 @@ local infmoney = false
 local treasure = false
 local finalpet
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dementiaenjoyer/UI-LIBRARIES/refs/heads/main/wally-modified/source.lua')))()
-local window = library:CreateWindow('Credit: Neutral')
+local window = library:CreateWindow('Dig To Earth Core')
 window:Section('Stuff')
 window:Toggle("Spin Abuse",{},function(value)
 spinabuse = value
